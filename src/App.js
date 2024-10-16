@@ -18,21 +18,21 @@ const projects = [
   {
     title: "web scraping",
     description: "web-scraper using node js",
-    image: "/images/w.jpg",
+    image: "/images/w.JPG",
     github: "https://github.com/vishalok/web-scraper",
     demo: "#"
   },
   {
     title: "dashboard analysis",
     description: "React static site with login,signup,dashboard //note:- login with any credentials then you will reach the dashboard.",
-    image: "/images/d.jpg",
+    image: "/images/d.JPG",
     github: "https://github.com/vishalok/React-frontend",
     demo: "https://react-frontend-p037.onrender.com/"
   },
   {
     title: "Cybersecurity Dashboard",
     description: "Upcoming - A real-time cybersecurity dashboard for monitoring network traffic and threats.",
-    image: "/images/csd.jpg",
+    image: "/images/csd.JPG",
     github: "https://github.com/vishalok/cybersecurity-dashboard",
     demo: "#"
   },
