@@ -9,6 +9,20 @@ import { Link } from 'react-scroll';
 
 const projects = [
   {
+    title: "Deepgram Audio Transcriber",
+    description: "React-based web application that allows users to record audio and receive real-time transcriptions using the Deepgram API. This project demonstrates the integration of audio recording capabilities with advanced speech-to-text technology.",
+    image: "/images/dat.jpg",
+    github: "https://github.com/vishalok/Deepgram-Audio-Transcriber",
+    demo: "https://deepgram-audio-transcriber.onrender.com"
+  },
+  {
+    title: "1-1 Video Call App",
+    description: "A fully functional Fullstack site using node & react",
+    image: "/images/video-call.jpg",
+    github: "https://github.com/vishalok/1-1_video_call",
+    demo: "https://video-call-vdpf.onrender.com/"
+  },
+  {
     title: "E-commerce Platform",
     description: "A fully functional backend e-commerce site",
     image: "/images/e.jpg",
