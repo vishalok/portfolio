@@ -9,6 +9,13 @@ import { Link } from 'react-scroll';
 
 const projects = [
   {
+    title: "LinkedIn AI Reply",
+    description: "This Chrome extension is built using the REACT, TPYESCRIPT, TAILWINDCSS & WXT framework and helps automate message responses on LinkedIn.",
+    image: "/images/16.png",
+    github: "https://github.com/vishalok/LinkedIn-AI-Reply",
+    demo: "https://github.com/vishalok/LinkedIn-AI-Reply"
+  },
+  {
     title: "Deepgram Audio Transcriber",
     description: "React-based web application that allows users to record audio and receive real-time transcriptions using the Deepgram API. This project demonstrates the integration of audio recording capabilities with advanced speech-to-text technology.",
     image: "/images/dat.jpg",
